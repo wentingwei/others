@@ -1,3 +1,4 @@
+
 /******************************************************************************
 Module:  APIHook.h
 Notices: Copyright (c) 2008 Jeffrey Richter & Christophe Nasarre
